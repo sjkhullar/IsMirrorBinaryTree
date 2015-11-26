@@ -13,4 +13,5 @@ We can go through the complete code. We have created 3 packages
 3.) org.learn.Client: Under this package we have main function.
 
 	We are creating Binary tree and mirror binary tree.
-	We are calling function of IsMirrorTree call to check whether one tree is mirror of other tree.
+	We are calling function of IsMirrorTree call to check
+	whether one tree is mirror of other tree.
